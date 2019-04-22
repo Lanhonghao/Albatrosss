@@ -2,5 +2,5 @@
 
 ![OSUG Open-Source Underwater Glider-2](https://raw.githubusercontent.com/Lanhonghao/Albatrosss/master/Log/20190302_%E5%90%AF%E5%8A%A8Albatrosss%E9%A1%B9%E7%9B%AE/20190302_%E5%90%AF%E5%8A%A8Albatrosss%E9%A1%B9%E7%9B%AE.assets/OSUG%20Open-Source%20Underwater%20Glider-1.JPG)
 
-![OSUG Open-Source Underwater Glider-1](https://raw.githubusercontent.com/Lanhonghao/Albatrosss/master/Log/20190302_%E5%90%AF%E5%8A%A8Albatrosss%E9%A1%B9%E7%9B%AE/20190302_%E5%90%AF%E5%8A%A8Albatrosss%E9%A1%B9%E7%9B%AE.assets/OSUG%20Open-Source%20Underwater%20Glider-2.JPG)
+![OSUG Open-Source Underwater Glider-2](https://raw.githubusercontent.com/Lanhonghao/Albatrosss/master/Log/20190302_%E5%90%AF%E5%8A%A8Albatrosss%E9%A1%B9%E7%9B%AE/20190302_%E5%90%AF%E5%8A%A8Albatrosss%E9%A1%B9%E7%9B%AE.assets/OSUG%20Open-Source%20Underwater%20Glider-2.jpg)
 
